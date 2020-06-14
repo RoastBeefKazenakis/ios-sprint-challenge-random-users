@@ -12,6 +12,8 @@ class ConcurrentOperation: Operation {
     
     // MARK: Types
     
+//    test
+    
     enum State: String {
         case isReady, isExecuting, isFinished
     }
